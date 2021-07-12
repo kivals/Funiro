@@ -1,3 +1,6 @@
 ./node_modules
 ./.idea
 ./fls_start_gulp_patrones
+/fls_start_gulp_patrones/
+/.idea/
+/node_modules/
